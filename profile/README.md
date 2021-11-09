@@ -1,4 +1,4 @@
-![ OceanGliders Logo](.github/profile/logo-ocean-gliders.png "OceanGliders Logo")
+![ OceanGliders Logo](/profile/logo-ocean-gliders.png "OceanGliders Logo")
 
 Here the [OceanGliders](https://www.oceangliders.org) community shares and discusses best practices, data formats and vocabularies. 
 
