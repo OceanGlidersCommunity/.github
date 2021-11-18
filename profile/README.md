@@ -18,5 +18,5 @@ Please make your membership public to increase our visibility.
 If you wish to contribute to the SOP development just let us know [here](https://github.com/OceanGlidersCommunity/OceanGliders/discussions/1).
 
 # Code of Conduct
-- add link to Code of Conduct file here as soon as finalized. Join the discussion [here](https://github.com/OceanGlidersCommunity/OG-format-user-manual/pull/23)
+Please read and follow our [Code of Conduct](https://github.com/OceanGlidersCommunity/OceanGliders/blob/main/CODE_OF_CONDUCT.md).
 
