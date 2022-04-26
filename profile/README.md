@@ -9,7 +9,7 @@ A good start is also to [introduce you](https://github.com/OceanGlidersCommunity
 # Ongoing community efforts
 - [GitHub training](https://github.com/OceanGlidersCommunity/LearningGitHub/discussions/20)
 - Access and discuss the new [OceanGliders format](https://github.com/OceanGlidersCommunity/OG1.0-user-manual).
-- SOPs for Data Assembly Centers are available [here](https://oceangliderscommunity.github.io/Oxygen_SOP/README.html).
+- SOPs for Data Assembly Centers are available [here](https://github.com/OceanGlidersCommunity/DataAssemblyCenter_SOP).
 - Join the [Oxygen SOP](https://oceangliderscommunity.github.io/Oxygen_SOP/README.html#).
 - Join the [Salinity SOP](https://oceangliderscommunity.github.io/Salinity_SOP/README.html#) community review: Open until April 30 2022. 
 - Join the [Nitrate SOP](https://oceangliderscommunity.github.io/Nitrate_SOP/README.html#) community review: Open until April 30 2022. 
