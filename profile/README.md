@@ -8,6 +8,7 @@ A good start is also to [introduce you](https://github.com/OceanGlidersCommunity
 
 # Ongoing community efforts
 - [GitHub training](https://github.com/OceanGlidersCommunity/LearningGitHub/discussions/53)
+- [Meeting notes](https://github.com/OceanGlidersCommunity/meeting_notes)
 - Access and discuss the new [OceanGliders format](https://github.com/OceanGlidersCommunity/OG1.0-user-manual).
 - SOPs for Data Assembly Centers are available [here](https://github.com/OceanGlidersCommunity/DataAssemblyCenter_SOP).
 - Join the [Oxygen SOP](https://oceangliderscommunity.github.io/Oxygen_SOP/README.html#). v1.0.0 released on June 1 2022, [doi](http://dx.doi.org/10.25607/OBP-1756)
