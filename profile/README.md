@@ -7,7 +7,7 @@ We are an open community! If you want to join the effort just browse through the
 A good start is also to [introduce you](https://github.com/OceanGlidersCommunity/OceanGliders/discussions/1).
 
 # Ongoing community efforts
-- [GitHub training](https://github.com/OceanGlidersCommunity/LearningGitHub/discussions/53)
+- [GitHub training](https://github.com/OceanGlidersCommunity/LearningGitHub/discussions/53) 🤓🎖
 - [Meeting notes](https://github.com/OceanGlidersCommunity/meeting_notes)
 - Access and discuss the new [OceanGliders format](https://github.com/OceanGlidersCommunity/OG1.0-user-manual).
 - SOPs for Data Assembly Centers are available [here](https://github.com/OceanGlidersCommunity/DataAssemblyCenter_SOP).
