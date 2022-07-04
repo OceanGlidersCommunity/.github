@@ -15,7 +15,7 @@ A good start is also to [introduce you](https://github.com/OceanGlidersCommunity
 - Join the [Salinity SOP](https://oceangliderscommunity.github.io/Salinity_SOP/README.html#) community review: Open until June 30 2022.
 - Join the [Nitrate SOP](https://oceangliderscommunity.github.io/Nitrate_SOP/README.html#) community review: Open until June 30 2022. 
 - Join the [Depth Average Currents (DACs) SOP](https://oceangliderscommunity.github.io/DepthAverageCurrents_SOP/README.html).
-- Join the [Chla SOP]https://github.com/OceanGlidersCommunity/Chla_SOP
+- Join the [Chla SOP](https://github.com/OceanGlidersCommunity/Chla_SOP)
 If you wish to contribute to the SOP development just let us know [here](https://github.com/OceanGlidersCommunity/OceanGliders/discussions/1).
 
 # Code of Conduct
