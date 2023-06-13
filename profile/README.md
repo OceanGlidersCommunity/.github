@@ -9,7 +9,8 @@ A good start is also to [introduce you](https://github.com/OceanGlidersCommunity
 # Ongoing community efforts
 - [GitHub training](https://github.com/OceanGlidersCommunity/LearningGitHub/discussions/53) 🤓🎖
 - [Meeting notes](https://github.com/OceanGlidersCommunity/meeting_notes)
-- Access and discuss the new [OceanGliders format](https://github.com/OceanGlidersCommunity/OG1.0-user-manual).
+- Access and discuss the [OceanGliders format] - OG1.0 (https://github.com/OceanGlidersCommunity/OG1.0-user-manual).
+- Ocean Glider’s BUFR format, check the new sequence here: https://github.com/wmo-im/BUFR4/issues/16
 - SOPs for Data Assembly Centers are available [here](https://github.com/OceanGlidersCommunity/DataAssemblyCenter_SOP).
 - Join the [Oxygen SOP](https://oceangliderscommunity.github.io/Oxygen_SOP/README.html#). v1.0.0 released on June 1 2022, [doi](http://dx.doi.org/10.25607/OBP-1756)
 - Join the [Salinity SOP](https://oceangliderscommunity.github.io/Salinity_SOP/README.html#) community review: Open until June 30 2022.
