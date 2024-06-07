@@ -10,7 +10,7 @@ A good start is also to [introduce you](https://github.com/OceanGlidersCommunity
 - [GitHub training](https://github.com/OceanGlidersCommunity/LearningGitHub/discussions/53) 🤓🎖
 - [Meeting notes](https://github.com/OceanGlidersCommunity/meeting_notes)
 - Access and discuss the OceanGliders format - [OG1.0](https://github.com/OceanGlidersCommunity/OG1.0-user-manual).
-- OceanGlider’s BUFR format is defined in [WMO's manual on Code Vol 1.2](https://library.wmo.int/idurl/4/35625) in table D by descriptor 3-15-012. Provisional version of next release is available [here](https://wmoomm.sharepoint.com/:b:/s/wmocpdb/EW-YM8uJZlRJpe0WPrlyVGEB6Ll_OAwZuVlW_CUJiWpJ7Q?e=Aa1Dnj). The archived proposal and related discussions can be found at: [wmo-im/BUFR4#16](https://github.com/wmo-im/BUFR4/issues/16)
+- OceanGlider’s BUFR format is defined in [WMO's manual on Code Vol 1.2](https://library.wmo.int/idurl/4/35625) in table D by descriptor 3-15-012. Provisional version of next release is available [here](https://wmoomm.sharepoint.com/:b:/s/wmocpdb/EW-YM8uJZlRJpe0WPrlyVGEB6Ll_OAwZuVlW_CUJiWpJ7Q?e=Aa1Dnj) (see page #658). The archived proposal and related discussions can be found at: [wmo-im/BUFR4#16](https://github.com/wmo-im/BUFR4/issues/16)
 - SOPs for Data Assembly Centers are available [here](https://github.com/OceanGlidersCommunity/DataAssemblyCenter_SOP).
 - Join the [Oxygen SOP](https://oceangliderscommunity.github.io/Oxygen_SOP/README.html#). v1.0.0 released on June 1 2022, [doi](http://dx.doi.org/10.25607/OBP-1756)
 - Join the [Salinity SOP](https://oceangliderscommunity.github.io/Salinity_SOP/README.html#) community review: Open until June 30 2022.
