@@ -19,6 +19,7 @@ A good start is also to [introduce you](https://github.com/OceanGlidersCommunity
 - Join the [Chla SOP](https://github.com/OceanGlidersCommunity/Chla_SOP).
 - Join the [Vertical Velocities SOP](https://github.com/OceanGlidersCommunity/Vertical_Velocities_SOP)
 - Join the [BOON task team repository](https://github.com/OceanGlidersCommunity/BOON).
+- Join the [Glidertest repository](https://github.com/OceanGlidersCommunity/glidertest).
 
 If you wish to contribute to the SOP development just let us know [here](https://github.com/OceanGlidersCommunity/OceanGliders/discussions/1).
 
