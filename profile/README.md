@@ -1,6 +1,6 @@
 ![ OceanGliders Logo](/profile/logo-ocean-gliders.png "OceanGliders Logo")
 
-Here the [OceanGliders](https://www.oceangliders.org) community shares and discusses best practices, data formats and vocabularies. 
+Here the [OceanGliders](https://www.oceangliders.org) community shares and discusses best practices, data formats and vocabularies. It fulfils the expectations of glider user groups, such as EGO and UG2, in terms of best practices and data management.
 
 # How to contribute
 We are an open community! If you want to join the effort just browse through the different repositories, raise issues or start a discussion.
